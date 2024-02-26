@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74716553733",
+    "project_id": "spacex-3a115",
+    "storage_bucket": "spacex-3a115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74716553733:android:787700e7d687bc23e0326c",
+        "android_client_info": {
+          "package_name": "com.redstoneapps.spacex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74716553733-eud7gbtfip99062m8vajd2tkav2928c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redstoneapps.spacex",
+            "certificate_hash": "47108df895dc661aeac82de4e21a3746c62c37fe"
+          }
+        },
+        {
+          "client_id": "74716553733-4flktakelugvmu6o722lbqaoi3ue3l2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9LX1ybsn4Ajkfb664XwF99IR4-5TPk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74716553733-4flktakelugvmu6o722lbqaoi3ue3l2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
